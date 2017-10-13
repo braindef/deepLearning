@@ -1,0 +1,232 @@
+ich habe mal noch meine Tagebücher in diese Software eingespiesen und ich denke mit dem könnte man schon helfen beim Ordnen der Gedanken.
+
+Beispiel Markus Belseer (Jahr 2000)
+das Resultat liefert die ganze damalige Drogenklicke die mich zum Konsum von Harten Drogen überredet haben, inklusive dem Einführlungsritual in Roggwil
+
+marc@debian:~/Daten.2017/code/deepLearning$ python tagebuch.py "belser" "" "" "" "" ""
+=========================================
+Suche: belser
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+sense
+david
+belsers
+roggwil
+oliver
+cathrin
+zschokke
+mantra
+drogenanfuetternden
+lee
+=========================================
+
+Wenn ich meine Eltern eingebe (letzte Krise) kommt als erstes belästigung, ich fühlte mich von meinen Eltern belästigt (Stimmen hören) was ja gar nicht meine Eltern waren sondern meine Schizophrenie, es hat mich belastet dass der Hr Dr. Hans Jürg Pfisterer auch der Therapeut von meinem Vater war...
+
+marc@debian:~/Daten.2017/code/deepLearning$ python tagebuch.py "georg" "margrit" "" "" "" ""
+=========================================
+Suche: georg margrit
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+belästigung
+pfsiterer
+vorstadium
+verhandlung
+mittagspause
+halsschlagader
+schläfe
+haftstrafe
+richtungen
+annemarie
+=========================================
+
+Zum Schlüsselwort Drogen kommt das ich meist nur Weiche Drogen genomman habe, und wieder kommt Markus Belser vor der mich kurze Zeit für Harte Drogen angefüttert hat, ich empfand das als "fremdeinfluss" (Gruppenzwang)
+
+marc@debian:~/Daten.2017/code/deepLearning$ python tagebuch.py "drogen" "" "" "" "" ""
+=========================================
+Suche: drogen
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+weichen
+handel
+markus
+joggen
+fremdeinfluss
+kiffen
+einzufangen
+kallen
+goliath
+doom
+=========================================
+marc@debian:~/Daten.2017/code/deepLearning$
+
+Das US4877027 ist das Patent Microwave Hearing, ich denke aus diesen Antworten kann man rauslesen dass ich permanent Stimmen gehört habe und mir dann im Internet Quellen zusammen gesucht habe die das erklären würden (Confirmation Bias)
+
+marc@debian:~/Daten.2017/code/deepLearning$ python tagebuch.py "us4877027" "" "" "stimmen" "" ""
+=========================================
+Suche: us4877027
+-----------------------------------------
+ausschliessen: stimmen
+-----------------------------------------
+sdr
+wo2005055579a1
+verfügt
+retinaccd
+4877027
+permenent
+rfid
+meien
+schätzungsweise
+strahlenwaffen
+=========================================
+marc@debian:~/Daten.2017/code/deepLearning$
+
+Ich hab mich von den Geräuschen von z.B. Jürg Stalder (störiag) belästigt gefühlt womit ich dann dem Jürg Stalder bei jeder gelegenheit seine Fehler vorgehalten habe wie z.B. dass er immer Laut sein Kind mit dem Down-Syndrom Anschreit und von Kindsmisshandlung geredet habe weil mich sein Lärm unterbewusst dauernd belästigt hat. Das schöne ist auch dass beim Schlüsselwort "terror" das so aussieht als würde ich mich terrorisiert fühlen und somit kann wohl eine Terroratacke von mir ausgeschlossen werden
+
+marc@debian:~/Daten.2017/code/deepLearning$ python tagebuch.py "terror" "" "" "" "" ""
+=========================================
+Suche: terror
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+geräsuche
+lärm
+geräusche
+geschäfte
+störiag
+finanz
+einzufangen
+reifen
+cyberterroristen
+süchtigen
+=========================================
+
+
+Und wer hätte das erwartet, die Trennung damals von Claudine hat mich suizidal gemacht, Rösli war ein vorheriger Freund von ihr, als sie ihn erwähnt hatte, haben meine Verlustängste begonnen, ich wurde dann psychotisch davon und das hat dann zur Trennung geführt
+
+
+marc@debian:~/Daten.2017/code/deepLearning$ python tagebuch.py "claudine" "" "" "" "" ""
+=========================================
+Suche: claudine
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+rösli
+suizidalität
+melani
+cluadine
+caludine
+surri
+carmen
+philip
+pierrot
+vergewlatigt
+=========================================
+
+
+Ich bin positiv überrascht über den Output der Software denn die Daten (meien Tagebücher) waren nicht nur ein bisschen chaotisch, dennoch erkennt die Software ähnlichkeiten und korrelationen.
+
+Also zusammen mit dem Patienten wäre so etwas allenfalls wirklich etwas was helfen würde damit der Patient nicht komplett dekompensiert, aber was dann schätzungsweise wieder daran scheitert dass die Psychiater gar keine Zeit für solche lange Gesprächstherapien haben.
+
+Die erste Alphaversion dieser Software ist auf https://github.com/braindef/deepLearning verfügbar, wenn sie selber in meinen Tagebüchern rumsuchen möchten können sie dies mit dem Befehl python tagebuch.py "schlüsselwort1" "schlüsselwort2" "schlüsselwort3" "schlüsselwort4 ausschliessen" "schlüsselwort5 ausschliessen" "schlüsselwort6 ausschleissen" dafür muss gensim und word2vec mit python pip installiert werden, das programm install.sh erledigt das, funktioniert zur zeit nur auf Linux
+
+
+ich hab auch das Forum "Kompetenzenz-Schizophrenie" runtergeladen und umgewqandelt
+
+marc@debian:~/Daten.2017/code/deepLearning$ python forum.py "zyprexa" "risperdal" "" "" "" ""
+=========================================
+Suche: zyprexa risperdal
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+abilify
+seroquel
+olanzapin
+solian
+medikamente
+Abilify
+leponex
+medis
+tabletten
+amisulprid
+=========================================
+marc@debian:~/Daten.2017/code/deepLearning$
+
+
+marc@debian:~/Daten.2017/code/deepLearning$ python forum.py "zyprexa" "" "" "" "" ""
+=========================================
+Suche: zyprexa
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+abilify
+seroquel
+solian
+olanzapin
+risperdal
+medikamente
+tabletten
+medis
+Abilify
+haldol
+=========================================
+
+marc@debian:~/Daten.2017/code/deepLearning$ python forum.py "suizid" "" "" "" "" ""
+=========================================
+Suche: suizid
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+kopf
+latein
+psychologen
+magen
+druck
+hacker
+mom
+pc
+bayern
+auto
+=========================================
+marc@debian:~/Daten.2017/code/deepLearning$
+
+
+marc@debian:~/Daten.2017/code/deepLearning$ python forum.py "selbstmord" "" "" "" "" ""
+=========================================
+Suche: selbstmord
+-----------------------------------------
+ausschliessen:
+-----------------------------------------
+schwul
+paulina
+kopf
+fehler
+psychotherapeuten
+abgestossen
+praktikum
+kaputt
+vergiftet
+suechtig
+=========================================
+marc@debian:~/Daten.2017/code/deepLearning$
+
+marc@debian:~/Daten.2017/code/deepLearning$ python forum.py "hoelle" "" "" "himmel" "" ""
+=========================================
+Suche: hoelle
+-----------------------------------------
+ausschliessen: himmel
+-----------------------------------------
+Qual
+Weihnachtsfeier
+Schlimmer
+Konzentrationssteigerung
+Arbeitswoche
+Zeit
+im
+autonom
+sinnloses
+Sauerei
+=========================================
+marc@debian:~/Daten.2017/code/deepLearning$
