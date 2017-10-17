@@ -25,8 +25,8 @@ def parseArgs():
     model = word2vec.KeyedVectors.load_word2vec_format(args.bin, binary=True, unicode_errors='ignore')
     #model = gensim.models.Word2Vec.load(args.bin)
     print(args.bin)
-    for key, value in model.most_similar(positive=args.positive, negative=args.negative):
-        print( '%16s ' % key ,end='')
+    for key, value in model.most_similar(positive=args.positive, negative=args.negative, topn=20):
+        print( '%s ' % key)
     print("")
 
 parseArgs()

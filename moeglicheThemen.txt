@@ -1,0 +1,133 @@
+Halli Hallo
+
+Scheinbar hat den Thread jemand gelöscht deshalb mache ich den jetzt nochmals auf.
+
+ich konnte mit Topic Modelling so einige Themen identifizieren die schizophrenen scheinbar häufig das Leben schwer machen:
+mich würde eure Meinung dazu interessieren.
+
+
+[RELIGION]	[USA]		[STIMMEN]	[SUCHT]		[MISSTRAUEN]		[SEXUELLE INTEGRITaeT]
+daemoen		amerikaner	telepathie	polizei		psychiater		pizzagate
+sadisten	CIA		eingebugnen	xtc		hanibal			pädo
+satan		NSA		stimme		mdma		psyop			sexuelleIntegrität
+jesus		MKULTRA		stimmen		kiffer		<name psychiaters>	vergewaltiger
+gott		geheimdienste	geister		pillen		staat			koerper
+christus	staat		geräusche	kokain		stigmatisierung		bruder
+antichrist	rfid		figuren		zigaretten	zwangsmassnahme		onkel
+vodoo		permanent	zweifelsohne	<namen klicke>	pfleger			vater
+engel		us4877027	permanent	<ort rituale>	isozelle		schwester
+	
+							
+[Nachbar]	[EXTREMISMUS]	[MOBBING]	[Existenzangst]	[FREUND/IN]
+terror		nazi		eltern		finanzen	sex
+nachbar		nsu		firma		wohnung		treue
+wäsche		hellsangles	klicke		hartz4		geschwister
+laerm		reichsbuerger	belaestigung	sozialhilfe	<name exfreund>
+waffen		nsa		ausgrenzung	rechnung	schwesterchen
+alkaida		naziaerzte	trauma		versicherung	untreue
+flughafen	mengele		leute		krankenkasse	lebenswerk
+bombe		KZ		industrie	geld		schutzinstinkt
+islam		ideologie	beruf		obdachlos	gefuehlsleere
+
+
+[MEDIKAMENTE]
+marc@debian:~/Daten.2017/code/deepLearning$ python suchen.py --bin data/forum.txt.bin --positive zyprexa
+data/forum.txt.bin
+abilify 
+risperdal 
+solian 
+tabletten 
+olanzapin 
+tavor 
+medikamente 
+seroquel 
+medis 
+Zyprexa 
+zeldox 
+haldol 
+risperidon 
+pillen 
+Temesta 
+dosis 
+Abilify 
+dosierung 
+medikamenten 
+drogen 
+
+
+[BEZIEHUNGEN]
+marc@debian:~/Daten.2017/code/deepLearning$ python suchen.py --bin data/forum.txt.bin --positive bruder
+data/forum.txt.bin
+freund 
+sohn 
+Bruder 
+vater 
+Mann 
+Sohn 
+Freund 
+mann 
+Neffe 
+Stiefsohn 
+onkel 
+psychiater 
+Exfreund 
+Vater 
+Kumpel 
+partner 
+Traumberuf 
+Lebensgefaehrte 
+Schatzmann 
+arbeitgeber 
+
+[Krankheit]
+marc@debian:~/Daten.2017/code/deepLearning$ python suchen.py --bin data/forum.txt.bin --positive schizophrenie
+data/forum.txt.bin
+psychose 
+krankheit 
+psychosen 
+diagnose 
+stoerung 
+depressionen 
+psyche 
+psychotiker 
+depression 
+therapie 
+nl 
+psychiatrie 
+menschen 
+jem 
+schizo 
+medikamenten 
+erkrankung 
+zwangseinweisung 
+vergangenheit 
+borderline 
+
+[Verfolgung]
+marc@debian:~/Daten.2017/code/deepLearning$ python suchen.py --bin data/psychoseOnline.txt.bin --positive verfolgt
+data/psychoseOnline.txt.bin
+bedroht 
+gedraengt 
+beobachtet 
+ueberwacht 
+abgehoert 
+ausgegrenzt 
+aufgeloest 
+betreut 
+gemieden 
+vergiftet 
+satt 
+ergriffen 
+behandelt 
+abgewiesen 
+ernstgenommen 
+residualphase 
+abgestellt 
+wahrgenommen 
+unterbrochen 
+geliebt 
+
+
+Gruss
+Marc Landolt
+2009@marclandolt.ch
