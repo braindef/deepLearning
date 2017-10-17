@@ -7,19 +7,20 @@ verwendet habe ich das gensim und word2vec das mit python pip installiert werden
 
 als erstes muss man das word2vec und gensim installieren
 
--> **install.sh**
+-> **./shell/install.sh**
 
 dann muss mann den Text umwandeln dass er keine Kommas, sonderzeichen etc hat
 
--> **clean.sh eingabe.txt > ausgabe.txt**
+-> **./shell/clean.sh eingabe.txt > ausgabe.txt**
 
 dann muss man aus der Ausgabedatei eine word2vec bin datei machen
 
--> **generateBin.sh ausgabe.txt**
+-> **./shell/generateBin.sh ausgabe.txt**
   ->das gibt dann eine **ausgabe.txt.bin** Datei
   
 dann kann man darin z.B. ähnliche Worte suchen
 
 -> **python suchen.py --bin ausgabe.txt.bin --positive schizophrenie suizid --negative zyprexa xeplion**
     (also wenn wir zwar was über schizophrenie und suizid aber nichts von medikamenten wissen wollen)
-# deepLearning
+
+in den Beispieldateien sieht mach auch wie man das python word2vec und gensim verwendet
