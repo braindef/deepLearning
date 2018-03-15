@@ -7,6 +7,7 @@ import argparse
 import gensim
 
 from gensim.models import word2vec
+from gensim.models import KeyedVectors
 
 #print "========================================="
 
@@ -22,7 +23,7 @@ def parseArgs():
         print("Es muss eine BIN Datei angegeben werden")
         exit(1)
     from gensim.models import word2vec
-    model = word2vec.KeyedVectors.load_word2vec_format(args.bin, binary=True, unicode_errors='ignore')
+    model = gensim.models.KeyedVectors.load_word2vec_format(args.bin, binary=True, unicode_errors='ignore')
     #model = gensim.models.Word2Vec.load(args.bin)
     print(args.bin)
     for key, value in model.most_similar(positive=args.positive, negative=args.negative, topn=20):

@@ -6,28 +6,41 @@ ich konnte mit Topic Modelling so einige Themen identifizieren die schizophrenen
 mich würde eure Meinung dazu interessieren.
 
 
-[RELIGION]	[USA]		[STIMMEN]	[SUCHT]		[MISSTRAUEN]		[SEXUELLE INTEGRITaeT]
-daemoen		amerikaner	telepathie	polizei		psychiater		pizzagate
-sadisten	CIA		eingebugnen	xtc		hanibal			pädo
-satan		NSA		stimme		mdma		psyop			sexuelleIntegrität
-jesus		MKULTRA		stimmen		kiffer		<name psychiaters>	vergewaltiger
-gott		geheimdienste	geister		pillen		staat			koerper
-christus	staat		geräusche	kokain		stigmatisierung		bruder
-antichrist	rfid		figuren		zigaretten	zwangsmassnahme		onkel
-vodoo		permanent	zweifelsohne	<namen klicke>	pfleger			vater
-engel		us4877027	permanent	<ort rituale>	isozelle		schwester
-	
-							
-[Nachbar]	[EXTREMISMUS]	[MOBBING]	[Existenzangst]	[FREUND/IN]
-terror		nazi		eltern		finanzen	sex
-nachbar		nsu		firma		wohnung		treue
-wäsche		hellsangles	klicke		hartz4		geschwister
-laerm		reichsbuerger	belaestigung	sozialhilfe	<name exfreund>
-waffen		nsa		ausgrenzung	rechnung	schwesterchen
-alkaida		naziaerzte	trauma		versicherung	untreue
-flughafen	mengele		leute		krankenkasse	lebenswerk
-bombe		KZ		industrie	geld		schutzinstinkt
-islam		ideologie	beruf		obdachlos	gefuehlsleere
+RELIGION:
+daemonen, sadisten, satan, jesus, gott, christus, antichrist, vodoo, engel
+
+USA:
+amerikaner, CIA, NSA, MKULTRA, geheimdienste, staat, rfid, permanent, us4877027
+
+STIMMEN:
+telepathie, eingebungen, stimme, stimmen, geister, geraeusche, figuren, zweifelsohne, permanent
+
+SUCHT:
+polizei, xtc, mdma, kiffer, pillen, kokain, zigaretten, <name der mitglieder der Klicke>, <ort der Rituale>
+
+MISSTRAUEN:
+psychiater, hannibal, psyop, <name des psychiaters>, staat, stigmatisierung, zwangsmassnahme, pfleger, isozelle
+
+SEXUELLE INTEGRITAET:
+pizzagate, paedo, koerper, bruder, onkel, vater, schwester
+
+NACHBAR:
+terror, nachbar, waesche, laerm, waffen, alkaida, flughafen, bombe
+
+EXTREMISMUS:
+nazi, nsu, hellsangles, reichsbuerger, nsa, naziaerzte, mengele, kz, ideologie
+
+MOBBING:
+eltern, firma, klicke, belaestigung, ausgrenzung, trauma, leute, industrie, beruf
+
+EXISTENZANGST:
+finanzen, wohnung, hartz4, sozialhilfe, rechnung, versicherung, krankenkasse, geld, obdachlos
+
+FREUND/IN:
+sex, treue, geschwister, <name exfreund/in>, schwesterchen, untreue, lebenswerk, schutzinstinkt, gefuehlsleere
+
+
+
 
 
 [MEDIKAMENTE]
@@ -131,3 +144,30 @@ geliebt
 Gruss
 Marc Landolt
 2009@marclandolt.ch
+
+
+
+
+[RELIGION]	[USA]		[STIMMEN]	[SUCHT]		[MISSTRAUEN]		[SEXUELLE INTEGRITaeT]
+daemoen		amerikaner	telepathie	polizei		psychiater		pizzagate
+sadisten	CIA		eingebugnen	xtc		hanibal			pädo
+satan		NSA		stimme		mdma		psyop			sexuelleIntegrität
+jesus		MKULTRA		stimmen		kiffer		<name psychiaters>	vergewaltiger
+gott		geheimdienste	geister		pillen		staat			koerper
+christus	staat		geräusche	kokain		stigmatisierung		bruder
+antichrist	rfid		figuren		zigaretten	zwangsmassnahme		onkel
+vodoo		permanent	zweifelsohne	<namen klicke>	pfleger			vater
+engel		us4877027	permanent	<ort rituale>	isozelle		schwester
+	
+							
+[Nachbar]	[EXTREMISMUS]	[MOBBING]	[Existenzangst]	[FREUND/IN]
+terror		nazi		eltern		finanzen	sex
+nachbar		nsu		firma		wohnung		treue
+wäsche		hellsangles	klicke		hartz4		geschwister
+laerm		reichsbuerger	belaestigung	sozialhilfe	<name exfreund>
+waffen		nsa		ausgrenzung	rechnung	schwesterchen
+alkaida		naziaerzte	trauma		versicherung	untreue
+flughafen	mengele		leute		krankenkasse	lebenswerk
+bombe		KZ		industrie	geld		schutzinstinkt
+islam		ideologie	beruf		obdachlos	gefuehlsleere
+
