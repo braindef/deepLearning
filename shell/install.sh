@@ -1,11 +1,20 @@
 #!/bin/bash
 
 sudo apt-get install python-pip
-sudo emerge dev-python/pip
-sudo pip install cython
-sudo pip install word2vec
-sudo pip install gensim
+pip install cython
+pip install word2vec
+pip install gensim
 
-sudo pip install cython --upgrade
-sudo pip install word2vec --upgrade
-sudo pip install gensim --upgrade
+pip install cython --upgrade
+pip install word2vec --upgrade
+pip install gensim --upgrade
+
+
+sudo emerge dev-python/pip
+pip install cython --user
+pip install word2vec --user
+pip install gensim --user
+
+pip install cython --user --upgrade
+pip install word2vec --user --upgrade
+pip install gensim --user --upgrade
